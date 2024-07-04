@@ -1,0 +1,17 @@
+What is Node JS?
+=> Node JS is a Runtime Env. for JavaScript.
+
+
+-->> Server always deals with string..
+
+
+Topics covered:-->
+--> Ch-1: Modules Systems, FS(fileSystem), REPL, NPM, package.json        ✅
+--> Ch-2: Web server using Node JS                                        ✅
+--> Ch-3: Express JS                                                      ✅
+--> Ch-4: REST APIs and CRUD                                              ✅
+--> Ch-5: Model View Controller (MVC) and File Structure                  ✅
+--> MongoDB basics, Mongo Atlas                                           ✅
+--> Mongoose, Schema, Model and CRUD Operations                           ✅  
+--> MERN - Connecting API with React                                      ✅
+--> Deploying MERN app on live cloud server    
