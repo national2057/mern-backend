@@ -14,4 +14,5 @@ Topics covered:-->
 --> MongoDB basics, Mongo Atlas                                           ✅
 --> Mongoose, Schema, Model and CRUD Operations                           ✅  
 --> MERN - Connecting API with React                                      ✅
---> Deploying MERN app on live cloud server    
+--> Deploying MERN app on live cloud server                               ✅
+--> Server Side Rendering - with EJS   
